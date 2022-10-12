@@ -2,8 +2,7 @@
 
 #### 🔹 About this Project:
 
-Projeto construído do evento Next Level Week da Rocketseat.
-
+Project built from Rocketseat's Next Level Week event over a list of favorite games and streams
 
 #### 🔹 Technologies Used:
 
